@@ -1,7 +1,7 @@
 //<![CDATA[
 $(document).ready(function () {
     pengaturan({
-        blogURL: 'https://debatedais.blogspot.com/',
+        blogURL: 'https://ilaingarindia.blogspot.com/',
         MaxPost: 5,
         RandompostActive: false,
         ImageSize: 620,
