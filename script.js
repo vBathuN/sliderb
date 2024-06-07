@@ -1,7 +1,7 @@
 //<![CDATA[
 $(document).ready(function () {
 Recentpostbsd({
-blogURL:"https://ilaingarindia.blogspot.com/",
+blogURL:"https://debatedais.blogspot.com/",
 MaxPost:8,
 container:"#recentpostbsd",
 ImageSize:500,
